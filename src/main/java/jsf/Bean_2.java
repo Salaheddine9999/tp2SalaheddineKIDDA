@@ -9,6 +9,9 @@ import java.util.List;
 import jakarta.inject.Named;
 import jakarta.enterprise.context.RequestScoped;
 
+/*class bean_1*/
+
+
 @Named(value = "bean2_")
 @RequestScoped
 public class Bean_2 {
