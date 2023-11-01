@@ -12,7 +12,7 @@ import jakarta.enterprise.context.RequestScoped;
 /*class bean_1*/
 
 
-@Named(value = "bean2_")
+@Named(value = "bean_2")
 @RequestScoped
 public class Bean_2 {
 

@@ -11,7 +11,7 @@ import jakarta.enterprise.context.RequestScoped;
 
 /*class bean_1*/
 
-@Named(value = "bean_")
+@Named(value = "bean_1")
 @RequestScoped
 public class Bean_1 {
 
